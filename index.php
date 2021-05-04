@@ -1,0 +1,1 @@
+<?php header('Location:/HexaFlip/index4.html');?>
